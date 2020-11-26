@@ -1,0 +1,45 @@
+label {
+    text-align: center;
+    margin-left: 8em;
+}
+
+body {
+    background-size: cover;
+}
+
+#error {
+    color: red;
+}
+
+.login-block {
+    background-image: url("https://th.bing.com/th/id/OIP.fCWBEu7dJLA6EW5w783RiQHaK8?w=122&h=181&c=7&o=5&dpr=1.56&pid=1.7");
+    background-size: cover;
+    border: 2px solid black;
+    margin-right: 30%;
+    margin-left: 30%;
+    margin-top: 10%;
+    margin-bottom: auto;
+    padding: 50px;
+    padding-left: 3em;
+    width: 21em;
+    height: 20em;
+    /* align-items: center; */
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+    /* margin-left: 8em; */
+}
+
+input {
+    width: 23em;
+    height: 2em;
+}
+
+button {
+    width: 23em;
+    height: 3em;
+    background: rgb(40, 40, 96);
+    color: white;
+}
